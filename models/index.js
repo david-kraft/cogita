@@ -1,3 +1,6 @@
 module.exports = {
-  Book: require("./book")
+  UserTemplate: require("./UserTemplate")
+  User: require("./User")
+  UserDate: require("./UserData")
+
 };
