@@ -1,6 +1,4 @@
 module.exports = {
-  UserTemplate: require("./UserTemplate")
-  User: require("./User")
-  UserDate: require("./UserData")
-
+  User: require("./User"),
+  UserData: require("./UserData")
 };
