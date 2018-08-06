@@ -1,6 +1,5 @@
 {
     "users": {
-        "_model": "User",
         "kraft153@umn.edu": {
             "name": "David Kraft",
             "password": "Th15IsMyPassword!",
@@ -37,59 +36,54 @@
                         }
                     ]
                 }
+            ],
+            "log": [
+                {
+                    "title": "LCO Powwow",
+                    "data": [
+                        {
+                            "number": 1,
+                            "prompt": "Where did the event happen?",
+                            "response": "Lac Courte Oreilles powwow grounds near Hayward, WI"
+                        },
+                        {
+                            "number": 2,
+                            "prompt": "Who was at the event?",
+                            "response": "My uncle, Dick went with me. There were, I'd say, a few hundred people there. There were craft and food stands littered around the grounds. In the middle, there were stands and a circle with a bunch of chairs for tribal elder seating. The emcee started the opening ceremony by recognizing all of the veterans, then people danced behind the elders as they went around in a circle."
+                        },
+                        {
+                            "number": 3,
+                            "prompt": "What were some memorable sights, smells, tastes or foods, and sounds or music at the event?",
+                            "response": "I had indian tacos and a great glass of strawberry lemonade. I also got to enjoy drumming and singing and watched a bunch of dancers. Some of them were dressed up, but people around the circle joined in, too."
+                        },
+                        {
+                            "number": 4,
+                            "prompt": "Any quotes from presenters or people who were there that I want to remember?",
+                            "response": ""
+                        },
+                        {
+                            "number": 5,
+                            "prompt": "How did I feel at the event?",
+                            "response": "I felt really great there and I definitely plan to go again next year."
+                        },
+                        {
+                            "number": 6,
+                            "prompt": "Why did I go to the event?",
+                            "response": "I went because it was my tribe, I wanted to see my uncle, and I hadn't gone to a more traditional powwow in many years."
+                        },
+                        {
+                            "number": 7,
+                            "prompt": "What else happened at the event, that I would want to remember?",
+                            "response": "I bought some medicines, like tobacco, sweetgrass, cedar, and bear root. I was given a pipe when I went to have breakfast with my cousins. They also gave me a backscratcher. My uncle gave me a medicine pouch, a ribbon shirt, and a baseball cap with some beadwork on it."
+                        }
+                    ]
+                }
             ]
-        },
-        "anne_and_chipper@mac.com": {
-            "name": "Anne Kraft",
-            "password": "Sc00ter!",
-            "templates": []
         }
     },
-
-    "entries": {
-        "_model": "Entry",
-        "log": [
-            {
-                "title": "LCO Powwow",
-                "email": "->users.kraft153@umn.edu",
-                "data": [
-                    {
-                        "number": 1,
-                        "prompt": "Where did the event happen?",
-                        "response": "Lac Courte Oreilles powwow grounds near Hayward, WI"
-                    },
-                    {
-                        "number": 2,
-                        "prompt": "Who was at the event?",
-                        "response": "My uncle, Dick went with me. There were, I'd say, a few hundred people there. There were craft and food stands littered around the grounds. In the middle, there were stands and a circle with a bunch of chairs for tribal elder seating. The emcee started the opening ceremony by recognizing all of the veterans, then people danced behind the elders as they went around in a circle."
-                    },
-                    {
-                        "number": 3,
-                        "prompt": "What were some memorable sights, smells, tastes or foods, and sounds or music at the event?",
-                        "response": "I had indian tacos and a great glass of strawberry lemonade. I also got to enjoy drumming and singing and watched a bunch of dancers. Some of them were dressed up, but people around the circle joined in, too."
-                    },
-                    {
-                        "number": 4,
-                        "prompt": "Any quotes from presenters or people who were there that I want to remember?",
-                        "response": ""
-                    },
-                    {
-                        "number": 5,
-                        "prompt": "How did I feel at the event?",
-                        "response": "I felt really great there and I definitely plan to go again next year."
-                    },
-                    {
-                        "number": 6,
-                        "prompt": "Why did I go to the event?",
-                        "response": "I went because it was my tribe, I wanted to see my uncle, and I hadn't gone to a more traditional powwow in many years."
-                    },
-                    {
-                        "number": 7,
-                        "prompt": "What else happened at the event, that I would want to remember?",
-                        "response": "I bought some medicines, like tobacco, sweetgrass, cedar, and bear root. I was given a pipe when I went to have breakfast with my cousins. They also gave me a backscratcher. My uncle gave me a medicine pouch, a ribbon shirt, and a baseball cap with some beadwork on it."
-                    }
-                ]
-            }
-        ]
+    "anne_and_chipper@mac.com": {
+        "name": "Anne Kraft",
+        "password": "Sc00ter!",
+        "templates": []
     }
 }
