@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // import NewEntry from "./pages/NewEntry";
 // import EditEntry from "./components/EditEntry";
 
-import Form from "./components/Form";
+// import Form from "./components/Form";
 import NavBar from "./components/NavBar";
 import PromptCard from "./components/PromptCard";
 import PostsPage from "./components/PostsPage";
