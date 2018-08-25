@@ -3,40 +3,6 @@
         "kraft153@umn.edu": {
             "name": "David Kraft",
             "password": "Th15IsMyPassword!",
-            "templates": [
-                {
-                    "Event": [
-                        {
-                            "number": 1,
-                            "prompt": "Where did the event happen?"
-                        },
-                        {
-                            "number": 2,
-                            "prompt": "Who was at the event?"
-                        },
-                        {
-                            "number": 3,
-                            "prompt": "What were some memorable sights, smells, tastes or foods, and sounds or music at the event?"
-                        },
-                        {
-                            "number": 4,
-                            "prompt": "Any quotes from presenters or people who were there that I want to remember?"
-                        },
-                        {
-                            "number": 5,
-                            "prompt": "How did I feel at the event?"
-                        },
-                        {
-                            "number": 6,
-                            "prompt": "Why did I go to the event?"
-                        },
-                        {
-                            "number": 7,
-                            "prompt": "What else happened at the event, that I would want to remember?"
-                        }
-                    ]
-                }
-            ],
             "log": [
                 {
                     "title": "LCO Powwow",
